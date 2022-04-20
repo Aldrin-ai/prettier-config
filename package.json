@@ -1,0 +1,19 @@
+{
+  "name": "@aldrin-ai/prettier-config",
+  "version": "1.0.2",
+  "description": "Aldrin's Prettier configuration",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aldrin-ai/prettier-config.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aldrin-ai/prettier-config/issues"
+  },
+  "homepage": "https://github.com/Aldrin-ai/prettier-config#readme"
+}
