@@ -1,6 +1,6 @@
 {
   "name": "@aldrin-ai/prettier-config",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Aldrin's Prettier configuration",
   "main": "index.json",
   "scripts": {
